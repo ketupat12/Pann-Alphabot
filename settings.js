@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false 
 
 //language
 //Available in indonesia , english & spanyol 
@@ -25,23 +25,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "KINTO-BOT𓅼" //namabot kalian
+global.ownername= "ᴹᴿ᭄ BCRSTORE ×፝֟͜×" //nama kalian
+global.myweb ="https://www.instagram.com/bcrstore2022/?hl=en" //bebas asal jan hapus
+global.youtube = "https://www.youtube.com/channel/UC89s6Slx1TKgA8j5udj4aYg" //bebas asal jan hapus
+global.myweb2 = "https://www.instagram.com/bcrstore2022/?hl=en" //bebas
+global.email = "Baguschairulramadhani@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6282284661772'] //premium user
+global.owner = ["6282284661772","628389370422"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282284661772" // nomor wa kalian
+global.ownernomerr = "+628389370422" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = 'KINTO-BOT𓅼' //sticker wm ubah
+global.author = 'Di Buat Oleh Rama' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
